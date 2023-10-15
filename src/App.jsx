@@ -364,11 +364,11 @@ const questions = [
       title: '3 - Люблю ❤️❤️❤️❤️❤️',img: 'https://sun6-21.userapi.com/s/v1/if2/qjjaMF7C_wnlKAXqs49mRmOe4C0BNMLQJX4paRKLQmv3Dn5h3RYvb2t36zujN43FPdShFjov9YU7y8MVYXHlt43t.jpg?size=728x870&quality=96&crop=0,0,728,870&ava=1'
     },
 ],
-    correct: 0,
+    correct: 2,
   },
   {
     title: 'Счастья мое...?',
-    variants: [{title: '1 - Это быть с тобой🥺',img: 'https://w.forfun.com/fetch/e0/e09d90468342cc78f760895d9c893edf.jpeg'},
+    variants: [{title: '1 - Это быть с тобой!!!!!',img: 'https://w.forfun.com/fetch/e0/e09d90468342cc78f760895d9c893edf.jpeg'},
     {title: '2 - Запах Сигарет',img: 'https://avatars.yandex.net/get-music-content/95061/4fe5730d.a.7818489-1/m1000x1000?webp=false'},{
       title: '3 - Это думать о еде',img: 'https://img.goodfon.ru/original/2560x1600/e/44/vtorye-blyuda-ryba-kartofel.jpg'
     },
